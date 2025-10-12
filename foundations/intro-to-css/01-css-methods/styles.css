@@ -1,0 +1,12 @@
+ div {
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    size: 5cm;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
